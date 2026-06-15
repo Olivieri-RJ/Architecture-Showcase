@@ -3,6 +3,9 @@
 [![Visual Showcase](https://img.shields.io/badge/Visual%20Showcase-Carrd-blue)](https://andersonolivieri.carrd.co)
 
 
+*This repository contains anonymized architectural excerpts derived from real-world client projects. Client identities, business domains, sensitive data, and proprietary implementation details have been intentionally removed or generalized to comply with confidentiality agreements and NDAs.*
+
+
 ## 🗂️ Table of Contents
 
 - [🧩 Modular System Architecture](#-modular-system-architecture-anonymized-technical-showcase)
