@@ -3,7 +3,13 @@
 [![Visual Showcase](https://img.shields.io/badge/Visual%20Showcase-Carrd-blue)](https://andersonolivieri.carrd.co)
 
 
-*This repository contains anonymized architectural excerpts derived from real-world client projects. Client identities, business domains, sensitive data, and proprietary implementation details have been intentionally removed or generalized to comply with confidentiality agreements and NDAs.*
+#### ​⚠️ Confidentiality Notice
+
+- This repository is an architectural showcase assembled from patterns, modules, and design decisions derived from previous consulting and R&D work.
+
+- All client-identifiable information, proprietary business logic, sensitive datasets, infrastructure details, and implementation-specific elements have been removed, anonymized, or generalized.
+
+- The purpose of this repository is to demonstrate architectural thinking, system design practices, and engineering methodology while fully respecting client confidentiality agreements and intellectual property rights.
 
 
 ## 🗂️ Table of Contents
